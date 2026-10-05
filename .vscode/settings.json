@@ -1,4 +1,5 @@
 {
   "git.ignoreLimitWarning": true,
-  "workbench.colorTheme": "Peacocks In Space Light (rainglow)"
+  "workbench.colorTheme": "Peacocks In Space Light (rainglow)",
+  "liveServer.settings.port": 5501
 }
